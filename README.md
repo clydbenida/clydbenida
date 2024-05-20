@@ -1,5 +1,11 @@
-### Hi there 👋
+# 👋 Hi, I’m Ben
+---
 
+I am a motivated web developer based in the Philippines 🇵🇭. Currently I am working as a Jr. Fullstack developer using MERN Stack (MySql, Express.js, React.js, and Node.js).
+
+Currently I’m exploring some technologies used for web development. My main tool for frontend development is React.js.
+
+Outside of my work I love playing video games. At the moment, I am into story-driven video games. I also love cooking for my girlfriend and our adorable doggo named Nuggets.
 <!--
 **clydbenida/clydbenida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
